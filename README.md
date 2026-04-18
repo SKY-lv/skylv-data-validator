@@ -1,13 +1,23 @@
-# skylv-data-validator
+# Data Validator
 
-data validator - OpenClaw Skill
+> data validator - OpenClaw Skill
 
 ## Install
-```
+
+```bash
 openclaw skills install skylv-data-validator
 ```
 
-## Description
-An OpenClaw skill for data validator.
+Or from ClawHub:
 
-MIT License © SKY-lv
+```
+https://clawhub.ai/skylv-data-validator
+```
+
+## About
+
+This skill is part of the [SKY-lv OpenClaw Skills Collection](https://github.com/SKY-lv/awesome-openclaw-skills).
+
+## License
+
+MIT © SKY-lv
