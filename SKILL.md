@@ -1,5 +1,5 @@
 ---
-description: Validates JSON, CSV, and Excel data with schema enforcement
+description: Data validation assistant. Validates JSON/CSV/Excel schemas and data quality checks. Triggers: data validation, json schema, csv validation, data quality.
 keywords: validation, json, csv, excel, schema
 name: skylv-data-validator
 triggers: data validator
